@@ -1,17 +1,17 @@
-
+body {
+  font-family: verdana;
+}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
-
 .container {
   border: 5px solid #12b730;
   padding: 60px;
   background-color: #e2b08a;
 }
-
 h1 {
   text-align: center;
 }
@@ -20,14 +20,13 @@ h2 {
   margin-right: auto;
   text-align: center;
 }
-
 .am {
   float: center;
   margin-left: 100px;
   margin-right: 100px;
-  text-align: center;
+  text-align: left;
+  text-indent: 50px;
 }
-
 .projects {
   margin-left: 100px;
 }
