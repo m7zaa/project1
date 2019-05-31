@@ -3,12 +3,13 @@ img {
 }
 body {
   font-family: verdana;
+  background-color: #534368;
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 55%;
 }
 .container {
   border: 5px solid #12b730;
@@ -24,12 +25,19 @@ h2 {
   text-align: center;
 }
 .am {
-  float: center;
   margin-left: 100px;
   margin-right: 100px;
   text-align: left;
+  border: 5px solid #12b730;
+  padding: 60px;
+  background-color: #e2b08a;
+}
+p {
   text-indent: 50px;
 }
 .projects {
   margin-left: 100px;
+}
+img {
+  float: left;
 }
