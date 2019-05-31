@@ -5,7 +5,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 55%;
 }
 .container {
   border: 5px solid #12b730;
@@ -33,4 +33,7 @@ p {
 }
 .projects {
   margin-left: 100px;
+}
+img {
+  float: left;
 }
