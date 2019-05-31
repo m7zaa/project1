@@ -54,3 +54,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}*
 
 Copyright (c) 2019 **_{Micah Zaayer}_**
+permalink: /index.html
