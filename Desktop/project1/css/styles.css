@@ -9,3 +9,19 @@
 h1 {
   text-align: center;
 }
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.am {
+  float: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+
+.projects {
+  margin-left: 100px;
+}
