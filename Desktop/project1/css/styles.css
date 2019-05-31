@@ -21,10 +21,14 @@ h2 {
   text-align: center;
 }
 .am {
-  float: center;
   margin-left: 100px;
   margin-right: 100px;
   text-align: left;
+  border: 5px solid #12b730;
+  padding: 60px;
+  background-color: #e2b08a;
+}
+p {
   text-indent: 50px;
 }
 .projects {
