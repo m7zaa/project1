@@ -1,39 +1,35 @@
-# _{project1}_
+# _Micah Zaayer's Portfolio_
 
-#### _{This is a portfolio for Micah Zaayer's coding.}, {05-31-2019}_
+#### _This is a portfolio for Micah Zaayer's programming projects., 05-31-2019_
 
-#### By _**{Micah Zaayer}**_
+#### By _**Micah Zaayer**_
 
 ## Description
 
-_{This is a portfolio for Micah Zaayer's coding. It includes a list of his projects, his background, interests and hobbies. It's purpose is to show future employers my work history and a little about himself.}_
+_This is a portfolio for Micah Zaayer's coding. It includes a list of his projects, his background, interests and hobbies. It's purpose is to show future employers my work history and a little about himself._
 
 ## Setup/Installation Requirements
 
-* Insert url into browser.
+* Click this link: https://m7zaa.github.io/project1/.
 
 
 ## Known Bugs
 
-_{There are no known bugs.}_
+_There are no known bugs._
 
 ## Support and contact details
 
-_{If you find any bugs, please contact Micah Zaayer at micahzaayer@gmail.com.}_
+_If you find any bugs, please contact Micah Zaayer at micahzaayer@gmail.com._
 
 ## Technologies Used
 
-_{-git
-  -html
-  -css
-  bootstrap
-  }_
+_-git
+-html
+-css and bootstrap_
 
 ### License
 
-*{MIT License
-
-Copyright (c) [year] [fullname]
+*MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -51,6 +47,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE.*
 
-Copyright (c) 2016 **_{Micah Zaayer}_**
+Copyright (c) 2019 **_Micah Zaayer_**
